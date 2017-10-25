@@ -14,12 +14,12 @@ I implemented the project in 3 different classes.
 
 
 
-# Class 1, 
+# Class 1
 
 This process individual lines of the input corpus, one at a time.
 The patterns are matched so as to extract the information form the title and the text part of the xml file by using the title pattern and text pattern.
 
-# Class 2,
+# Class 2
 
 This class implements the page rank calculations.
 First the calculations are calculated using intial values but are later modified in later iterations.
@@ -27,7 +27,7 @@ The max limit to the iterations are set at 20 which can be changed.
 The values i=of the page rank might reach a steady state. I am checking them by comparing the immediate output files of the iterations. If both the files are same, we can it reached a steady state.
 
 
-# Class 3,
+# Class 3
 
 This part takes the output of the last iteration and arranges the results according to the decreasing order of the page rank.
 
