@@ -1,4 +1,4 @@
- # Page-Rank
+# Page-Rank
 Implementation og Google Page Rank
 
 
@@ -29,7 +29,7 @@ The values i=of the page rank might reach a steady state. I am checking them by 
 
 # Class 3,
 
-This part takes the output of the last iteration and arranges the results according to the deccreasing order of the page rank.
+This part takes the output of the last iteration and arranges the results according to the decreasing order of the page rank.
 
 
 # Steps for execution:
