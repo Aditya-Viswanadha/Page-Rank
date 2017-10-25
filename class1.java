@@ -26,7 +26,7 @@ public class class1 extends Configured implements Tool{
 	public static final Pattern linkPattern = Pattern.compile("\\[\\[(.*?)\\]\\]");
 	
 	public static int tempCount = 1;				//Counting the number of iterations of page rank calculations
-	public static double dampingFactor = 0.85;		//As instructed in the assignment, we are taking the damping factor as 0.85 for calculation of page rank
+	public static double dampingFactor = 0.85;		//Taking the damping factor as 0.85 for calculation of page rank
 	public static int max = 20;						// Limiting the maximum number of iterations.
 	
 	//Main function
