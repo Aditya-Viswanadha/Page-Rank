@@ -1,5 +1,5 @@
 # Page-Rank
-Implementation og Google Page Rank
+Implementation of Google Page Rank
 
 
 The following are the steps used to excute various parts of this project.
