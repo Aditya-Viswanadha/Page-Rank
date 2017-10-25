@@ -1,4 +1,4 @@
-# Page-Rank
+ # Page-Rank
 Implementation og Google Page Rank
 
 
@@ -34,13 +34,13 @@ This part takes the output of the last iteration and arranges the results accord
 
 # Steps for execution:
 
-1)Right click on the project.
-2)Click on the Run As configuration.
-3)Set the arguments for the project for input and output.
-4)Select the main class for the project as class1 class.
-5)Run the project.
-6)Go to the output location to find th output folder with the output file.
-7)Repeat the same steps with the next input file.
+1. Right click on the project.
+2. Click on the Run As configuration.
+3. Set the arguments for the project for input and output.
+4. Select the main class for the project as class1 class.
+5. Run the project.
+6. Go to the output location to find th output folder with the output file.
+7. Repeat the same steps with the next input file.
 
 
 
